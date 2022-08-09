@@ -1399,26 +1399,26 @@ p {
   .danger-buttons ul li:first-child {
     margin-left: 0; }
 .danger-buttons .danger-one {
-  border-color: #fc3832;
-  color: #fc3832; }
+  border-color: #C576F6;
+  color: #C576F6; }
   .danger-buttons .danger-one:hover {
-    color: #fc3832;
+    color: #C576F6;
     background-color: rgba(252, 56, 50, 0.4); }
 .danger-buttons .danger-two {
   color: #fff;
-  background-color: #fc3832;
-  border-color: #fc3832; }
+  background-color: #C576F6;
+  border-color: #C576F6; }
   .danger-buttons .danger-two:hover {
-    color: #fc3832;
+    color: #C576F6;
     background-color: transparent; }
 .danger-buttons .danger-three {
   overflow: hidden;
   line-height: 52px;
   color: #fff;
   border: 0;
-  background: -webkit-linear-gradient(left, #fc3832 0%, #dc312b 50%, #fc3832 100%);
-  background: -o-linear-gradient(left, #fc3832 0%, #dc312b 50%, #fc3832 100%);
-  background: linear-gradient(to right, #fc3832 0%, #dc312b 50%, #fc3832 100%);
+  background: -webkit-linear-gradient(left, #C576F6 0%, #dc312b 50%, #C576F6 100%);
+  background: -o-linear-gradient(left, #C576F6 0%, #dc312b 50%, #C576F6 100%);
+  background: linear-gradient(to right, #C576F6 0%, #dc312b 50%, #C576F6 100%);
   background-size: 200% auto; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .danger-buttons .danger-three {
@@ -1430,8 +1430,8 @@ p {
     background-position: right center; }
 .danger-buttons .danger-four {
   padding-left: 60px;
-  border-color: #fc3832;
-  color: #fc3832; }
+  border-color: #C576F6;
+  color: #C576F6; }
   @media (max-width: 767px) {
     .danger-buttons .danger-four {
       padding-left: 40px; } }
@@ -1450,7 +1450,7 @@ p {
       .danger-buttons .danger-four span {
         left: 15px; } }
   .danger-buttons .danger-four:hover {
-    color: #fc3832;
+    color: #C576F6;
     background-color: rgba(252, 56, 50, 0.4); }
     .danger-buttons .danger-four:hover i {
       -webkit-animation: iconTranslateY 0.5s forwards;
@@ -1460,8 +1460,8 @@ p {
 .danger-buttons .danger-five {
   padding-left: 60px;
   color: #fff;
-  background-color: #fc3832;
-  border-color: #fc3832; }
+  background-color: #C576F6;
+  border-color: #C576F6; }
   @media (max-width: 767px) {
     .danger-buttons .danger-five {
       padding-left: 40px; } }
@@ -1480,7 +1480,7 @@ p {
       .danger-buttons .danger-five span {
         left: 15px; } }
   .danger-buttons .danger-five:hover {
-    color: #fc3832;
+    color: #C576F6;
     background-color: transparent; }
     .danger-buttons .danger-five:hover i {
       -webkit-animation: iconTranslateY 0.5s forwards;
@@ -1493,9 +1493,9 @@ p {
   line-height: 52px;
   color: #fff;
   border: 0;
-  background: -webkit-linear-gradient(left, #fc3832 0%, #dc312b 50%, #fc3832 100%);
-  background: -o-linear-gradient(left, #fc3832 0%, #dc312b 50%, #fc3832 100%);
-  background: linear-gradient(to right, #fc3832 0%, #dc312b 50%, #fc3832 100%);
+  background: -webkit-linear-gradient(left, #C576F6 0%, #dc312b 50%, #C576F6 100%);
+  background: -o-linear-gradient(left, #C576F6 0%, #dc312b 50%, #C576F6 100%);
+  background: linear-gradient(to right, #C576F6 0%, #dc312b 50%, #C576F6 100%);
   background-size: 200% auto; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .danger-buttons .danger-six {
@@ -1990,7 +1990,7 @@ p {
   .form-input .help-block .list-unstyled li {
     font-size: 12px;
     line-height: 16px;
-    color: #fc3832; }
+    color: #C576F6; }
 .form-input label {
   font-size: 12px;
   line-height: 18px;
@@ -2054,22 +2054,22 @@ p {
   .form-input .input-items.active i {
     color: #6C0BA9; }
   .form-input .input-items.error input, .form-input .input-items.error textarea {
-    border-color: #fc3832;
-    color: #fc3832; }
+    border-color: #C576F6;
+    color: #C576F6; }
     .form-input .input-items.error input::placeholder, .form-input .input-items.error textarea::placeholder {
-      color: #fc3832;
+      color: #C576F6;
       opacity: 1; }
     .form-input .input-items.error input::-moz-placeholder, .form-input .input-items.error textarea::-moz-placeholder {
-      color: #fc3832;
+      color: #C576F6;
       opacity: 1; }
     .form-input .input-items.error input::-moz-placeholder, .form-input .input-items.error textarea::-moz-placeholder {
-      color: #fc3832;
+      color: #C576F6;
       opacity: 1; }
     .form-input .input-items.error input::-webkit-input-placeholder, .form-input .input-items.error textarea::-webkit-input-placeholder {
-      color: #fc3832;
+      color: #C576F6;
       opacity: 1; }
   .form-input .input-items.error i {
-    color: #fc3832; }
+    color: #C576F6; }
   .form-input .input-items.success input, .form-input .input-items.success textarea {
     border-color: #4da422;
     color: #4da422; }
@@ -3117,11 +3117,11 @@ p.form-message.success, p.form-message.error {
   .contact-info .single-contact-info .contact-info-content .text {
     color: #121212; }
 .contact-info .single-contact-info.contact-color-1 .contact-info-icon i {
-  background-color: #121212; }
+  background-color: #6C0BA9; }
 .contact-info .single-contact-info.contact-color-2 .contact-info-icon i {
-  background-color: #fc3832; }
+  background-color: #6C0BA9; }
 .contact-info .single-contact-info.contact-color-3 .contact-info-icon i {
-  background-color: #005ad5; }
+  background-color: #6C0BA9; }
 
 .contact-wrapper .contact-title {
   font-size: 32px;
